@@ -1,3 +1,4 @@
+
 # Solutions to the worksheets of FCP
 Example solutions for the exercises for the unit Further Computer Programming, at the University of Bristol. The content of the unit can be found [here](https://engmaths.github.io/emat10006/)
 
@@ -30,4 +31,8 @@ You will notice the Week 4 content is there, however, these are the scripts alre
 In this week, you will have to play a bit with push and pull commands as well as the features found within the matplotlib/numpy modules.
 
 ## Additional Resources
+### Extra content on classes
+I have uploaded an example script that contains a class MyFraction. 
+
+### Markdown
 If you'd like to format better your README.md file, it is done using the Markdown language, [here](https://www.markdownguide.org/cheat-sheet/) is a cheatsheet and [here](https://stackedit.io/) is a web editor in case you'd like to try it out before commiting the changes to GitHub.
